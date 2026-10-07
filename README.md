@@ -84,6 +84,6 @@ Install dependencies:
 pip install -r requirements.txt
 
 Run the training and evaluation pipeline:
-python predictive_maintenance_gnb.py
+python turbofan_nb_classifier.py
 
 
